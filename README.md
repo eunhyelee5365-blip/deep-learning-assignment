@@ -1,2 +1,0 @@
-# deep-learning-assignment-2
-202213393 이은혜 딥러닝 과제 제출합니다. 
